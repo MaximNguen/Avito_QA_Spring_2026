@@ -1,7 +1,5 @@
 from typing import Any, Dict, Optional
-
 from src.clients.base_client import BaseClient
-
 
 class ItemClient(BaseClient):
     """API запросы для ручек"""

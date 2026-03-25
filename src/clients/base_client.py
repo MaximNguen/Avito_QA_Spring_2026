@@ -1,14 +1,7 @@
-# src/clients/base_client.py
-"""Базовый клиент класс"""
-
 from __future__ import annotations
-
 from typing import Any, Dict, Optional
-
 import requests
-
 from src.config import BASE_URL, TIMEOUT_SECONDS
-
 
 class BaseClient:
     def __init__(
