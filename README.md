@@ -4,9 +4,13 @@
 <h2>Настройка и возможности тестов</h2>
 <div>Предварительная подготовка</div>
 <ul>
-  <li>Python 3.11+</li>
+  <li>Python 3.13</li>
   <li>Allure</li>
-  <li>Docker</li>
+  <li>Pytest</li>
+  <li>Requests</li>
+  <li>PyLint</li>
+  <li>Pytest-xdist</li>
+  <li>flake8</li>
 </ul>
 <h2>Установка окружения и запуск</h2>
 1. Клонировать репозиторий
