@@ -1,0 +1,12 @@
+{
+  "base_valid": {
+    "sellerID": 111111,
+    "name": "base-item",
+    "price": 1000,
+    "statistics": {
+      "likes": 1,
+      "viewCount": 1,
+      "contacts": 1
+    }
+  }
+}
